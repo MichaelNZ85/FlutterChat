@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045453159520",
+    "firebase_url": "https://udemychat-aad3a.firebaseio.com",
+    "project_id": "udemychat-aad3a",
+    "storage_bucket": "udemychat-aad3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045453159520:android:42b915f80b4951525b5705",
+        "android_client_info": {
+          "package_name": "nz.co.spinningcube.FlutterChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045453159520-uvmqivl69f15umicns88u4222aojo2t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlNaTJNy2LbkiBXsj06u_gIItnGQw-3jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045453159520-uvmqivl69f15umicns88u4222aojo2t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
